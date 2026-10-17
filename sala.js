@@ -15,7 +15,7 @@
 
 /*=============================== CONFIG ===============================*/
 const CONFIG = {
-	roomName: "🔵⚪ Real Soccer Revolution | 4v4 Gana Sigue ⚪🔵",
+	roomName: "👑REAL SOCCER RANKED 👑| 4v4",
 	roomPassword: null,            // "clave" o null
 	maxPlayers: 24,
 	roomPublic: true,
