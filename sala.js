@@ -17,7 +17,7 @@
 const CONFIG = {
 	roomName: "👑REAL SOCCER RANKED 👑| 4v4",
 	roomPassword: null,            // "clave" o null
-	maxPlayers: 24,
+	maxPlayers: 2,
 	roomPublic: true,
 	geo: { code: "CO", lat: 4.7110, lon: -74.0721 },
 	token: "thr1.AAAAAGrS4Ieb7uQTpI13Wg.wv3B-Gi74dk",   // https://www.haxball.com/headlesstoken (es de un solo uso: si da error, pide uno nuevo)
